@@ -31,14 +31,15 @@ unzip folder images.zip
 ##    - images
 ##    - labels
 
-*|---Yolov5
+*|---Yolov5*
 
-*|   |---yolov5
+*|   |---yolov5*
 
-*|   |---images.zip
+*|   |---images.zip*
 
-*|   |---train_data
+*|   |---train_data*
 
 # 6. Edit PATH to train, PATH to est, number classes, my dataset
 # 7. Training
-# 8. get file *.pt* on *yolov5/runs/train/exp/weights/*
+# 8. Test
+get file *.pt* on *yolov5/runs/train/exp/weights/*
