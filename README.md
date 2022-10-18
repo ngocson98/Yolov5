@@ -24,12 +24,12 @@ unzip folder images.zip
 
 # 5. Folder reorganization
 
-## train
-##   - images
-##    - labels
-## test
-##    - images
-##    - labels
+* train
+*    - images
+*    - labels
+* test
+*    - images
+*    - labels
 
 *|---Yolov5*
 
