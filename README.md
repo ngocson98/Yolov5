@@ -15,10 +15,8 @@ zip folder *'images'*
 # 3. Install in requirements.txt
 # 4. Up folder *images.zip* inside folder *Yolov5*
 |---Yolov5
-
-|   |---yolov5
-
-|   |---images.zip
+    |---yolov5
+    |---images.zip
 
 unzip folder images.zip
 
